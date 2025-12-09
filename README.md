@@ -30,14 +30,14 @@ Structure du Site
 
 Le site est structuré comme un rapport multi-pages, naviguable depuis la page d'accueil :
 
-.
-├── rapport.html               # Page d'accueil : Présentation du groupe, Introduction et navigation.
-├── mission1.html              # Mission 1 : Analyse des données et de la modélisation (Anomalies, Clés).
-├── mission2.html              # Mission 2 : Interrogations SQL d'exploration.
-├── mission3.html              # Mission 3 : Indicateurs SQL avancés (CA, Marge, RSE, etc.).
-├── conclusion.html            # Chapitre spécifique détaillant le travail de conception HTML/CSS.
-├── style.css                  # Fichier CSS principal.             
-└── images/                    # Contient les schémas de la BDD et les extraits de résultats SQL.              
+    .
+    ├── rapport.html               # Page d'accueil : Présentation du groupe, Introduction et navigation.
+    ├── mission1.html              # Mission 1 : Analyse des données et de la modélisation (Anomalies, Clés).
+    ├── mission2.html              # Mission 2 : Interrogations SQL d'exploration.
+    ├── mission3.html              # Mission 3 : Indicateurs SQL avancés (CA, Marge, RSE, etc.).
+    ├── conclusion.html            # Chapitre spécifique détaillant le travail de conception HTML/CSS.
+    ├── style.css                  # Fichier CSS principal.             
+    └── images/                    # Contient les schémas de la BDD et les extraits de résultats SQL.              
 
  Lancement du Projet
 
