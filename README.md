@@ -18,7 +18,7 @@ Technologies Utilisées
 
 Ce projet respecte les contraintes académiques de la ressource R1.02, assurant un contrôle total sur la structure et le style.
 
-    HTML5 : Structure sémantique du rapport et du contenu.
+    HTML : Structure sémantique du rapport et du contenu.
 
     CSS : Mise en page, stylisation du contenu, et garantie du design responsive via l'utilisation de media queries.
 
@@ -31,13 +31,13 @@ Structure du Site
 Le site est structuré comme un rapport multi-pages, naviguable depuis la page d'accueil :
 
 .
-├── rapport.html                # Page d'accueil : Présentation du groupe, Introduction et navigation.
+├── rapport.html               # Page d'accueil : Présentation du groupe, Introduction et navigation.
 ├── mission1.html              # Mission 1 : Analyse des données et de la modélisation (Anomalies, Clés).
 ├── mission2.html              # Mission 2 : Interrogations SQL d'exploration.
 ├── mission3.html              # Mission 3 : Indicateurs SQL avancés (CA, Marge, RSE, etc.).
-├── conclusion.html                # Chapitre spécifique détaillant le travail de conception HTML/CSS.
-├── style.css                   # Fichier CSS principal.             
-└── images/                     # Contient les schémas de la BDD et les extraits de résultats SQL.              
+├── conclusion.html            # Chapitre spécifique détaillant le travail de conception HTML/CSS.
+├── style.css                  # Fichier CSS principal.             
+└── images/                    # Contient les schémas de la BDD et les extraits de résultats SQL.              
 
  Lancement du Projet
 
@@ -51,8 +51,5 @@ Le site a été testé pour sa conformité HTML et CSS et sa capacité à s'adap
 
 Auteurs
 
-    Équipe : Audrey Djazia Dany Nadir
-
-    Membres : [Prénom Nom 1], [Prénom Nom 2], [Prénom Nom 3], [Prénom Nom 4]
-
+    Membre : Audrey Djazia Dany Nadir
     Formation : BUT Informatique - Semestre 1
