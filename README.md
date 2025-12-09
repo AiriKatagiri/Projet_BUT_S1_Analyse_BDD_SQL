@@ -1,10 +1,10 @@
-Projet : SAÉ S1.04 : Conception et Analyse de Base de Données (KDou)
-Contexte du Projet
+# Projet : SAÉ S1.04 : Conception et Analyse de Base de Données (KDou)
+## Contexte du Projet
 
 Ce projet académique (SAÉ S1.04 - R1.02) consistait à réaliser une analyse complète de la base de données de l'entreprise commerciale KDou (épicerie fine). Le site web sert de rapport de synthèse des trois missions réalisées, 
 couvrant l'étude de la modélisation, l'interrogation avancée en SQL, et la production d'indicateurs de Business Intelligence (BI).
 
-Description du Rapport Web
+## Description du Rapport Web
 
 Ce site est le support de présentation final du rapport de la SAÉ S1.04. Il synthétise l'étude de cas KDou, en détaillant :
 
@@ -14,7 +14,7 @@ Ce site est le support de présentation final du rapport de la SAÉ S1.04. Il sy
 
     La production d'indicateurs de performance (CA, marge, RSE) pour l'aide à la décision stratégique de l'entreprise.
 
-Technologies Utilisées
+## Technologies Utilisées
 
 Ce projet respecte les contraintes académiques de la ressource R1.02, assurant un contrôle total sur la structure et le style.
 
@@ -26,7 +26,7 @@ Ce projet respecte les contraintes académiques de la ressource R1.02, assurant 
 
     Langage BDD : SQL pour toutes les interrogations et analyses.
 
-Structure du Site
+## Structure du Site
 
 Le site est structuré comme un rapport multi-pages, naviguable depuis la page d'accueil :
 
@@ -39,7 +39,7 @@ Le site est structuré comme un rapport multi-pages, naviguable depuis la page d
     ├── style.css                  # Fichier CSS principal.             
     └── images/                    # Contient les schémas de la BDD et les extraits de résultats SQL.              
 
- Lancement du Projet
+## Lancement du Projet
 
 Ce projet étant un site statique, il peut être consulté directement :
 
@@ -49,7 +49,7 @@ Ce projet étant un site statique, il peut être consulté directement :
 
 Le site a été testé pour sa conformité HTML et CSS et sa capacité à s'adapter aux différentes tailles d'écran (responsive design).
 
-Auteurs
+## Auteurs
 
     Membre : Audrey Djazia Dany Nadir
     Formation : BUT Informatique - Semestre 1
